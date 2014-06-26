@@ -108,7 +108,7 @@ public class MainActivity extends Activity {
 				}
 				
 				// App crashed here
-				//be.updateTestMap(testMap);
+				be.updateTestMap(btIdList, testMap);
 	
 			}
 		});
